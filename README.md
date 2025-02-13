@@ -10,7 +10,7 @@
 🔹 Criamos soluções inovadoras para transformar ideias em software.  
 🔹 Sempre buscando evolução com as melhores tecnologias do mercado.
 
-🌎 **Linguagens:** 🇧🇷 Português (Nativo) | 🇺🇸 Inglês (B2)  
+🌎 **Linguagens:** 🇧🇷 Português (Nativo) | 🇺🇸 Inglês (B2)
 
 </div>
 
