@@ -10,6 +10,14 @@
 
 </div>
 
+ <br>
+
+<div align="center">
+  <img src="https://i.imgur.com/clhFFdY_d.webp?maxwidth=760&fidelity=grand" alt="Logo Lamp" width="350">
+</div>
+
+ <br>
+
 <div align="center">
   <img align="center" alt="Nuxt Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" />
   <img align="center" alt="React Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
