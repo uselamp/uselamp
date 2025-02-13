@@ -4,19 +4,11 @@
 
 🔹 Uma dupla de amigos com grandes sonhos e paixão por tecnologia.  
 🔹 Criamos soluções inovadoras para transformar ideias em software.  
-🔹 Sempre buscando evolução com as melhores tecnologias do mercado.  
+🔹 Sempre buscando evolução com as melhores tecnologias do mercado.
 
 🌎 **Linguagens:** 🇧🇷 Português (Nativo) | 🇺🇸 Inglês (B2)  
 
 </div>
-
- <br>
-
-<div align="center">
-  <img src="https://i.imgur.com/clhFFdY_d.webp?maxwidth=760&fidelity=grand" alt="Logo Lamp" width="350">
-</div>
-
- <br>
 
 <div align="center">
   <img align="center" alt="Nuxt Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" />
@@ -41,3 +33,11 @@
   <a href="mailto:ifuselamp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ifuselamp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://i.imgur.com/clhFFdY_d.webp?maxwidth=760&fidelity=grand" alt="Logo Lamp" width="350">
+</div>
+
+<br>
